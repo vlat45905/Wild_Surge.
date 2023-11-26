@@ -1,0 +1,28 @@
+{
+  "name": "Wild-Surge",
+  "version": "1.0.0",
+  "description": "A Wild Surge Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.3.1"
+    
+  },
+  "devDependencies": {
+   
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "non"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "non"
+  },
+  "homepage": "non"
+}
